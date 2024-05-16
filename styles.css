@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#quiz-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#options {
+  margin-top: 20px;
+}
+
+#submit-btn {
+  margin-top: 20px;
+}
